@@ -1,6 +1,7 @@
 *{
 margin: 0;
 padding: 0;
+box-sizing: border-box;
 }
 body {
   background-image: url('https://3.bp.blogspot.com/-HY5pwU0Oko8/U1P9vomgZWI/AAAAAAAACqU/-uSLJZ1nBJE/s1600/background.jpg');
